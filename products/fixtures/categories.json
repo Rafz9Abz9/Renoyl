@@ -1,0 +1,17 @@
+[
+    {
+      "pk": 1,
+      "model": "products.category",
+      "fields": {
+        "name": "Hair Oil Products"
+      }
+    },
+    {
+      "pk": 2,
+      "model": "products.category",
+      "fields": {
+        "name": "Beard Oil Products"
+      }
+    }
+  ]
+  

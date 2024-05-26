@@ -1,0 +1,74 @@
+[
+    {
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "name": "50ml Hair Oil Product",
+            "description": "Renoyl Hair Oil Product nourishes the hair, promotes growth, softens and adds shine, and hydrates hair",
+            "price": 11.99,
+            "category": 1,
+            "rating": 4.6,
+            "image": "50ml-bottle.jpg"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+            "name": "100ml Hair Oil Product",
+            "description": "Renoyl Hair Oil Product nourishes the hair, promotes growth, softens and adds shine, and hydrates hair",
+            "price": 19.99,
+            "category": 1,
+            "rating": 4.6,
+            "image": "100ml-bottle.jpg"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+            "name": "150ml Hair Oil Product",
+            "description": "Renoyl Hair Oil Product nourishes the hair, promotes growth, softens and adds shine, and hydrates hair",
+            "price": 24.99,
+            "category": 1,
+            "rating": 4.6,
+            "image": "150ml-bottle.jpg"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+            "name": "50ml Beard Oil Product",
+            "description": "Renoyl Beard Oil Product nourishes the beard, promotes growth, softens and adds shine, and hydrates beard",
+            "price": 11.99,
+            "category": 2,
+            "rating": 4.6,
+            "image": "50ml-bottle.jpg"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "products.product",
+        "fields": {
+            "name": "100ml Beard Oil Product",
+            "description": "Renoyl Beard Oil Product nourishes the beard, promotes growth, softens and adds shine, and hydrates beard",
+            "price": 19.99,
+            "category": 2,
+            "rating": 4.6,
+            "image": "100ml-bottle.jpg"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+            "name": "150ml Beard Oil Product",
+            "description": "Renoyl Beard Oil Product nourishes the beard, promotes growth, softens and adds shine, and hydrates beard",
+            "price": 24.99,
+            "category": 2,
+            "rating": 4.6,
+            "image": "150ml-bottle.jpg"
+        }
+    }
+]
