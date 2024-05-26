@@ -13,21 +13,21 @@
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="hair-oil-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Hair</a>
             <div class="dropdown-menu border-0" aria-labelledby="hair-oil-link">
-                <a href="" class="dropdown-item">Hair Oil Products</a>
+                <a href="{% url 'products' %}?category=hair" class="dropdown-item">Hair</a>
             </div>
         </li>
 
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="beard-oil-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Beard</a>
             <div class="dropdown-menu border-0" aria-labelledby="beard-oil-link">
-                <a href="" class="dropdown-item">Beard Oil Products</a>
+                <a href="{% url 'products' %}?category=beard" class="dropdown-item">Beard</a>
             </div>
         </li>
 
         <li class="nav-item dropdown">
             <a class="logo-font font-weight-bold nav-link text-black mr-5" href="#" id="specials-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Special Offers</a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="" class="dropdown-item">Deals</a>
+                <a href="{% url 'products' %}?category=deals" class="dropdown-item">Deals</a>
             </div>
         </li>
     </ul>
