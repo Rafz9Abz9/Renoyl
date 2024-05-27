@@ -7,7 +7,7 @@
             "description": "Renoyl Hair Oil Product nourishes the hair, promotes growth, softens and adds shine, and hydrates hair",
             "price": 11.99,
             "category": 1,
-            "rating": 4.9,
+            "rating": 4.6,
             "image": "50ml-bottle.jpg"
         }
     },
@@ -19,7 +19,7 @@
             "description": "Renoyl Hair Oil Product nourishes the hair, promotes growth, softens and adds shine, and hydrates hair",
             "price": 19.99,
             "category": 1,
-            "rating": 4.1,
+            "rating": 4.6,
             "image": "100ml-bottle.jpg"
         }
     },
@@ -31,7 +31,7 @@
             "description": "Renoyl Hair Oil Product nourishes the hair, promotes growth, softens and adds shine, and hydrates hair",
             "price": 24.99,
             "category": 1,
-            "rating": 3.6,
+            "rating": 4.6,
             "image": "150ml-bottle.jpg"
         }
     },
@@ -43,7 +43,7 @@
             "description": "Renoyl Beard Oil Product nourishes the beard, promotes growth, softens and adds shine, and hydrates beard",
             "price": 11.99,
             "category": 2,
-            "rating": 5.0,
+            "rating": 4.6,
             "image": "50ml-bottle.jpg"
         }
     },
@@ -55,7 +55,7 @@
             "description": "Renoyl Beard Oil Product nourishes the beard, promotes growth, softens and adds shine, and hydrates beard",
             "price": 19.99,
             "category": 2,
-            "rating": 1.6,
+            "rating": 4.6,
             "image": "100ml-bottle.jpg"
         }
     },
@@ -67,7 +67,7 @@
             "description": "Renoyl Beard Oil Product nourishes the beard, promotes growth, softens and adds shine, and hydrates beard",
             "price": 24.99,
             "category": 2,
-            "rating": 3.2,
+            "rating": 4.6,
             "image": "150ml-bottle.jpg"
         }
     }
